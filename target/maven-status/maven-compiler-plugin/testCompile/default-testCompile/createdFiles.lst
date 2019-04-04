@@ -1,0 +1,5 @@
+com\pacman\helper\ConsoleTest.class
+com\pacman\helper\GridSurfaceTest.class
+com\pacman\helper\PositionTest.class
+com\pacman\helper\DirectionTest.class
+com\pacman\helper\PacmanTest.class
